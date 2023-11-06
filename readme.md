@@ -28,3 +28,5 @@ In standard convolution application the application of filters across all input 
 
 https://github.com/AMiREAL002/Smart-Pothole-Management-A-Comprehensive-System-for-Pothole-Detection-and-Prevention/assets/84368610/9be1a9a9-5fcd-4f98-8ba8-cb3b6ab740b5
 
+
+KAGGLE LINK:- https://www.kaggle.com/code/subhammudi/pothole-detection-using-single-shot-detector-ssd
